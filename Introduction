@@ -1,0 +1,8 @@
+Link to access the dataset.
+"https://stlawrencecollege-my.sharepoint.com/:x:/r/personal/karthiksrisai_maddipati_student_sl_on_ca/Documents/flights.csv?d=w1d97c9834ac044e4afa74c946f74b290&csf=1&web=1&e=YJeroy"
+
+Description:
+The dataset contain data of flights, their paths, their delays and reason for those delays.
+
+Project summary:
+We are going to predict the dealy in the flight based on different factors.
